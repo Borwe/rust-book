@@ -1,5 +1,5 @@
 [package]
-name = "brians_minigrep"
+name = "brian_minigrep"
 version = "0.1.0"
 edition = "2021"
 description = "A minigrep example from rust book"
