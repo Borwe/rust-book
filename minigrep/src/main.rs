@@ -1,6 +1,6 @@
 use std::env;
 use std::process;
-use minigrep::Config;
+use brian-minigrep::Config;
 
 
 fn main() {
